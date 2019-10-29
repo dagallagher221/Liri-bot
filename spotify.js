@@ -9,7 +9,7 @@ var fs = require("fs");
 function mySpotify(userInput) {
     var song = userInput;
     if (!song) {
-        song = "enter sandman Metallica"
+        song = "the sign Ace of Base"
     }
 
     spotify.search({ type: 'track', query: song}, function(err, data) {
