@@ -293,3 +293,318 @@ Venue Time: 06/25/2020, 7:00 PM
 utf8
 ---------------------------------------------
 utf8
+Song Search Log-------------------------------------
+Song Name: Umbrella
+Artist: Rihanna
+Album: Good Girl Gone Bad: Reloaded
+Preview: null
+
+--------------------------------------------
+
+Song Search Log-------------------------------------
+Song Name: Paradise By the Dashboard Light
+Artist: Meat Loaf
+Album: Bat Out Of Hell
+Preview: https://p.scdn.co/mp3-preview/4b9180c5f9f27ff184818e4c34042fe53cac6ffd?cid=892b244876b3494eb6dbeae3f0678713
+
+--------------------------------------------
+
+Concert Search Log---------------------------
+utf8
+Venue Name: POSTY FEST
+utf8
+Venue LocationsArlington, TX, United States
+utf8
+Venue Time: 11/02/2019, 12:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Chesapeake Energy Arena
+utf8
+Venue LocationsOklahoma City, OK, United States
+utf8
+Venue Time: 11/04/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Toyota Center
+utf8
+Venue LocationsHouston, TX, United States
+utf8
+Venue Time: 11/05/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Gila River Arena
+utf8
+Venue LocationsGlendale, AZ, United States
+utf8
+Venue Time: 11/08/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Pepsi Center
+utf8
+Venue LocationsDenver, CO, United States
+utf8
+Venue Time: 11/10/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Vivint Smart Home Arena
+utf8
+Venue LocationsSalt Lake City, UT, United States
+utf8
+Venue Time: 11/11/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Oakland Arena
+utf8
+Venue LocationsOakland, CA, United States
+utf8
+Venue Time: 11/14/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Honda Center
+utf8
+Venue LocationsAnaheim, CA, United States
+utf8
+Venue Time: 11/16/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Honda Center
+utf8
+Venue LocationsAnaheim, CA, United States
+utf8
+Venue Time: 11/17/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: The Forum
+utf8
+Venue LocationsLos Angeles, CA, United States
+utf8
+Venue Time: 11/20/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: The Forum
+utf8
+Venue LocationsLos Angeles, CA, United States
+utf8
+Venue Time: 11/21/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Tusindårsskoven
+utf8
+Venue LocationsOdense, , Denmark
+utf8
+Venue Time: 06/25/2020, 7:00 PM
+utf8
+---------------------------------------------
+utf8
+Movie Search Log---------------------------------
+
+Year: 1993
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 91%
+
+Country: USA
+
+Language: English, Spanish
+
+Plot: A pragmatic Paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+
+--------------------------------------------------- 
+
+Song Search Log-------------------------------------
+Song Name: Umbrella
+Artist: Rihanna
+Album: Good Girl Gone Bad: Reloaded
+Preview: null
+
+--------------------------------------------
+
+Song Search Log-------------------------------------
+Song Name: Congratulations
+Artist: Post Malone
+Album: Stoney (Deluxe)
+Preview: null
+
+--------------------------------------------
+
+Concert Search Log---------------------------
+utf8
+Venue Name: POSTY FEST
+utf8
+Venue LocationsArlington, TX, United States
+utf8
+Venue Time: 11/02/2019, 12:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Chesapeake Energy Arena
+utf8
+Venue LocationsOklahoma City, OK, United States
+utf8
+Venue Time: 11/04/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Toyota Center
+utf8
+Venue LocationsHouston, TX, United States
+utf8
+Venue Time: 11/05/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Gila River Arena
+utf8
+Venue LocationsGlendale, AZ, United States
+utf8
+Venue Time: 11/08/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Pepsi Center
+utf8
+Venue LocationsDenver, CO, United States
+utf8
+Venue Time: 11/10/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Vivint Smart Home Arena
+utf8
+Venue LocationsSalt Lake City, UT, United States
+utf8
+Venue Time: 11/11/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Oakland Arena
+utf8
+Venue LocationsOakland, CA, United States
+utf8
+Venue Time: 11/14/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Honda Center
+utf8
+Venue LocationsAnaheim, CA, United States
+utf8
+Venue Time: 11/16/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Honda Center
+utf8
+Venue LocationsAnaheim, CA, United States
+utf8
+Venue Time: 11/17/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: The Forum
+utf8
+Venue LocationsLos Angeles, CA, United States
+utf8
+Venue Time: 11/20/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: The Forum
+utf8
+Venue LocationsLos Angeles, CA, United States
+utf8
+Venue Time: 11/21/2019, 8:00 PM
+utf8
+---------------------------------------------
+utf8
+Concert Search Log---------------------------
+utf8
+Venue Name: Tusindårsskoven
+utf8
+Venue LocationsOdense, , Denmark
+utf8
+Venue Time: 06/25/2020, 7:00 PM
+utf8
+---------------------------------------------
+utf8
+Movie Search Log---------------------------------
+
+Year: 1993
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 91%
+
+Country: USA
+
+Language: English, Spanish
+
+Plot: A pragmatic Paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+
+--------------------------------------------------- 
+
+Song Search Log-------------------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=892b244876b3494eb6dbeae3f0678713
+
+--------------------------------------------
